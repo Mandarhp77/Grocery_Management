@@ -10,7 +10,9 @@ Structure of Project:-
 4: Flask server is connected to the HTML files that are rendered in main file.
 
 Working of project:
-Geocery Management is a web project in which admin can add and delete the products, and user can see which product is availble or not 
+Geocery Management is a web project in which admin can add and delete the products, and user can see which product is availble or not.
+
+<img src="static/assets/img/44.png" class="img-fluid" alt="">
 
 
 
