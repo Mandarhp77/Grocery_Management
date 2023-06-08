@@ -1,6 +1,6 @@
 # Grocery_Management
 
-Grcery Management System is a 3-tier project which consists the MySQL database connectivity, Flask as a backend server and bootstrap as a
+Grocery Management System is a 3-tier project which consists the MySQL database connectivity, Flask as a backend server and bootstrap as a
 front end
 
 Structure of Project:-
